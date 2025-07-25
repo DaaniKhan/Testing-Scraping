@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
 
 // Pages and Components
-import Landing from "./pages/landing"
+import Landing from "./pages/Landing"
 
 function App() {
 
